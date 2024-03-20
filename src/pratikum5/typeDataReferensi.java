@@ -14,11 +14,7 @@ public class typeDataReferensi {
     {
         //deklarasikan variabel
     String noBp;
-    String nama;
-    String tmplahir;
-    String tgllahir;
-    String nohp;
-    String alamat;
+    String nama,alamat,tmplahir,tgllahir,nohp;
     
     
     
